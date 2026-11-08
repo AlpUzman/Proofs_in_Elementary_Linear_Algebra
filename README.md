@@ -5,10 +5,8 @@ Proofs in Linear Algebra (PELA) is an independent, asynchronous and open access 
 Lecture recordings are available at the following Youtube Playlists:
 
 - [Full Episodes Only] https://www.youtube.com/playlist?list=PL40ydqvvyXfMwFmNvppWUuE3sgOP1RI5-
-- [Excerpts Only] https://www.youtube.com/playlist?
-list=PLZMh081dDr28
-- [Both Full Episodes and Excerpts] https://www.youtube.com/playlist?
-list=PLUspSAYAFm5Q
+- [Excerpts Only] https://www.youtube.com/playlist?list=PLZMh081dDr28
+- [Both Full Episodes and Excerpts] https://www.youtube.com/playlist?list=PLUspSAYAFm5Q
 
 ---
 
